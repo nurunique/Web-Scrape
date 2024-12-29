@@ -1,5 +1,10 @@
 # Flipkart scraping code
 
+# How To Use:
+# 1. change url, which you want to srape
+# 2.change number how many pages you want to srape
+# 3. make sure the path, where you want the xlsx file
+
 # ISSUE:
 # There is problem in this code. When You scrape you got three empty rows(1st , 25th, 26th). Because of code consider pages 1st, 25th
 # , 26th's as a product. but those are not product , those are just text. 
